@@ -354,15 +354,15 @@ We could have also used the revenue as a success metric. Still, for this analysi
 
 For the analysis, we are using the rfm data generated in Step 2. First, we select the customerIds and segment columns from the dataset.
 
-![rfm_data](https://github.com/Ameybhile/Data_Science_approach_to_ecommerce_business_growth/tree/main/images/A:B%20Testing/rfm_data.png)
+![rfm_data](https://github.com/Ameybhile/Data_Science_approach_to_ecommerce_business_growth/blob/main/images/A_B_Testing/rfm_data.png)
 
 We then split the data into two test and control groups:
 
-![control_test_groups](https://github.com/Ameybhile/Data_Science_approach_to_ecommerce_business_growth/tree/main/images/A:B%20Testing/control_test_groups.png)
+![control_test_groups](https://github.com/Ameybhile/Data_Science_approach_to_ecommerce_business_growth/blob/main/images/A_B_Testing/control_test_groups.png)
 
 Ideally, the purchase count should be a Poisson distribution. However, there will be customers with no purchases, and we will have fewer customers with high purchase counts.
 
-![customer_distribution](https://github.com/Ameybhile/Data_Science_approach_to_ecommerce_business_growth/tree/main/images/A:B%20Testing/customer_distribution.png)
+![customer_distribution](https://github.com/Ameybhile/Data_Science_approach_to_ecommerce_business_growth/blob/main/images/A_B_Testing/customer_distribution.png)
 
 The chart above shows promising results as the test group's purchase density is better starting from 1. However, to assess if this is a result of the coupon code, we will check if the upward trend in the test group is statistically significant and not a result of other factors.
 
@@ -371,6 +371,6 @@ First, we need to formulate our null hypothesis. In this case:
 
 We are going to use a t-test to perform hypothesis testing.
 
-![t-test](https://github.com/Ameybhile/Data_Science_approach_to_ecommerce_business_growth/tree/main/images/A:B%20Testing/t-test.png)
+![t-test](https://github.com/Ameybhile/Data_Science_approach_to_ecommerce_business_growth/blob/main/images/A_B_Testing/t-test.png)
 
 The results produced above show that the p-value is < 0.05. Therefore we can reject the null hypothesis.
