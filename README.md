@@ -45,17 +45,17 @@ The first step is to understand the main metrics the business wants to track, de
 
 ### Revenue by Country
 
-![revenue by country](https://github.com/Ameybhile/Data_Science_approach_to_ecommerce_business_growth/blob/master/images/KPIs/Revenue%20by%20Country.png)
+![revenue by country](https://github.com/Ameybhile/Data_Science_approach_to_ecommerce_business_growth/blob/main/images/KPIs/Revenue%20by%20Country.png)
 
 United Kingdom is the region that generates most of the company's revenue. For the purpose of this analysis, we will focus on UK customers.
 
 ### Monthly Revenue
 
-![Monthly Revenue](https://github.com/Ameybhile/Data_Science_approach_to_ecommerce_business_growth/blob/master/images/KPIs/Monthly%20Revenue.png)
+![Monthly Revenue](https://github.com/Ameybhile/Data_Science_approach_to_ecommerce_business_growth/blob/main/images/KPIs/Monthly%20Revenue.png)
 
 The chart above shows upward trend for the revenue generated up to the November 2011 (as the December data is incomplete). Up to August 2011, the business had a monthly revenue between 400K and 600K, since then, the business has seen its revenue dramatically increase reaching 1.2M in November 2011.
 
-![Montly Growth Rate](https://github.com/Ameybhile/Data_Science_approach_to_ecommerce_business_growth/blob/master/images/KPIs/Montly%20Growth%20Rate.png)
+![Montly Growth Rate](https://github.com/Ameybhile/Data_Science_approach_to_ecommerce_business_growth/blob/main/images/KPIs/Montly%20Growth%20Rate.png)
 
 September was an outstanding months with almost 60% growth compared with the previous month. November was also very good month with 46.2% growth. March and May are both up by more than 30% but this may be explain by the poor performance of the previous months.
 
@@ -63,22 +63,22 @@ January and April 2011 are poor performance months. We will have to investigate 
 
 ### Monthly Active Customers
 
-![Monthly Active Customers](https://github.com/mriffaud/Handbook-of-the-Business-Growth/blob/master/images/KPIs/Monthly%20Active%20Customers.png)
-![Montly Active Customers Rate](https://github.com/mriffaud/Handbook-of-the-Business-Growth/blob/master/images/KPIs/Montly%20Active%20Customers%20Rate.png)
+![Monthly Active Customers](https://github.com/Ameybhile/Data_Science_approach_to_ecommerce_business_growth/blob/main/images/KPIs/Monthly%20Active%20Customers.png)
+![Montly Active Customers Rate](https://github.com/Ameybhile/Data_Science_approach_to_ecommerce_business_growth/blob/main/images/KPIs/Montly%20Active%20Customers%20Rate.png)
 
 In January the company lost almost 200 customers, going from 871 in December to 684 in January which represents -21.47% decrease. Similarly, in April the business went from 923 customer to 817 which represents a decrease of 11.48%.
 
 ### Monthly Order Count
 
-![Monthly Orders](https://github.com/mriffaud/Handbook-of-the-Business-Growth/blob/master/images/KPIs/Monthly%20Orders.png)
-![Monthly Orders Rate](https://github.com/mriffaud/Handbook-of-the-Business-Growth/blob/master/images/KPIs/Monthly%20Orders%20Rate.png)
+![Monthly Orders](https://github.com/Ameybhile/Data_Science_approach_to_ecommerce_business_growth/blob/main/images/KPIs/Monthly%20Orders.png)
+![Monthly Orders Rate](https://github.com/Ameybhile/Data_Science_approach_to_ecommerce_business_growth/blob/main/images/KPIs/Monthly%20Orders%20Rate.png)
 
 The number of orders has been decreasing between December and February going from 1,885 to 1,259 orders representing -33.21% decrease. The orders went up until May growing by 56.71%. The orders dropped again until August by -27.72% and finally took up to November by 50.34%.
 
 ### Average Order Value
 
-![Monthly AOV](https://github.com/mriffaud/Handbook-of-the-Business-Growth/blob/master/images/KPIs/Monthly%20AOV.png)
-![Montly AOV Rate](https://github.com/mriffaud/Handbook-of-the-Business-Growth/blob/master/images/KPIs/Montly%20AOV%20Rate.png)
+![Monthly AOV](https://github.com/Ameybhile/Data_Science_approach_to_ecommerce_business_growth/blob/main/images/KPIs/Monthly%20AOV.png)
+![Montly AOV Rate](https://github.com/Ameybhile/Data_Science_approach_to_ecommerce_business_growth/blob/main/images/KPIs/Montly%20AOV%20Rate.png)
 
 Between December and April the company's AVG lost 24.05%, it went back up until September going from £272.66 in April to £412.45 in September which represents an increase of 51.27%. the month of October registered a decrease (-9.89) to go back to almost the AVG as September's one in November (£412.08 which represents 10.88% increase compared with October's AVG.
 
