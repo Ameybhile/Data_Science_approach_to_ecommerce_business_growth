@@ -1,8 +1,8 @@
 # Handbook of the Business Growth
 
-![banner](https://www.rapidhits.net/wp-content/uploads/2018/06/data-driven-advertising-850x350.jpg)
+![banner](https://neuromid.com/content/images/2021/02/data-analytics-outsourcing-01.png)
 
-In the data era, there is an abundance of customer information and tools available to businesses in order to make informed business decision. In this handbook I followed a method to use customer data to grow a business using a combination of programming, data analysis, and machine learning.
+In the data era, there is an abundance of customer information and tools available to businesses in order to make informed business decision. In this project I followed a method to use customer data to grow a business using a combination of programming, data analysis, and machine learning.
 
 ---
 ## Table of Content
@@ -23,7 +23,7 @@ The dataset is available on Kaggle: [E-Commerce Data](https://www.kaggle.com/car
 
 The dataframe is composed of 541,909 rows and 8 features
 
-![data](https://github.com/mriffaud/Handbook-of-the-Business-Growth/blob/master/data/data.png)
+![data](https://github.com/Ameybhile/Data_Science_approach_to_ecommerce_business_growth/blob/master/data/data.png)
 
 #### Data Dictionary
 
@@ -44,17 +44,17 @@ The first step is to understand the main metrics the business wants to track, de
 
 ### Revenue by Country
 
-![revenue by country](https://github.com/mriffaud/Handbook-of-the-Business-Growth/blob/master/images/KPIs/Revenue%20by%20Country.png)
+![revenue by country](https://github.com/Ameybhile/Data_Science_approach_to_ecommerce_business_growth/blob/master/images/KPIs/Revenue%20by%20Country.png)
 
 United Kingdom is the region that generates most of the company's revenue. For the purpose of this analysis, we will focus on UK customers.
 
 ### Monthly Revenue
 
-![Monthly Revenue](https://github.com/mriffaud/Handbook-of-the-Business-Growth/blob/master/images/KPIs/Monthly%20Revenue.png)
+![Monthly Revenue](https://github.com/Ameybhile/Data_Science_approach_to_ecommerce_business_growth/blob/master/images/KPIs/Monthly%20Revenue.png)
 
 The chart above shows upward trend for the revenue generated up to the November 2011 (as the December data is incomplete). Up to August 2011, the business had a monthly revenue between 400K and 600K, since then, the business has seen its revenue dramatically increase reaching 1.2M in November 2011.
 
-![Montly Growth Rate](https://github.com/mriffaud/Handbook-of-the-Business-Growth/blob/master/images/KPIs/Montly%20Growth%20Rate.png)
+![Montly Growth Rate](https://github.com/Ameybhile/Data_Science_approach_to_ecommerce_business_growth/blob/master/images/KPIs/Montly%20Growth%20Rate.png)
 
 September was an outstanding months with almost 60% growth compared with the previous month. November was also very good month with 46.2% growth. March and May are both up by more than 30% but this may be explain by the poor performance of the previous months.
 
