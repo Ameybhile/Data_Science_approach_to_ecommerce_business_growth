@@ -1,4 +1,4 @@
-# Handbook of the Business Growth
+# Data Science approach to ecommerce Business Growth
 
 ![banner](https://neuromid.com/content/images/2021/02/data-analytics-outsourcing-01.png)
 
@@ -23,7 +23,8 @@ The dataset is available on Kaggle: [E-Commerce Data](https://www.kaggle.com/car
 
 The dataframe is composed of 541,909 rows and 8 features
 
-![data](https://github.com/Ameybhile/Data_Science_approach_to_ecommerce_business_growth/blob/master/data/data.png)
+![data](https://github.com/Ameybhile/Data_Science_approach_to_ecommerce_business_growth/blob/main/master/data/data.png)
+
 
 #### Data Dictionary
 
